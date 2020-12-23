@@ -21,4 +21,4 @@ This project takes UFO sighting data (including date, location and observations)
   4. `country`
   5. `shape`
 
-  * Otherwise, functionality is identical to Level 1
+* Otherwise, functionality is identical to Level 1
