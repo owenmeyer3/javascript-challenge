@@ -11,6 +11,8 @@ This project takes UFO sighting data (including date, location and observations)
 
 * Uses a date form in the HTML document and writes listeners for events and search through the `date/time` column to find rows that match user input.
 
+![](images/Capture.png)
+
 ### Level 2: Multiple Search Categories
 
 * Using multiple `input` tags, writes listeners so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
@@ -22,3 +24,5 @@ This project takes UFO sighting data (including date, location and observations)
   5. `shape`
 
 * Otherwise, functionality is identical to Level 1
+
+![](images/Capture1.png)
